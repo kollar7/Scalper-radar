@@ -1,0 +1,11 @@
+
+{
+  "name": "scalper-bot-backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "technicalindicators": "^3.0.0"
+  }
+}
